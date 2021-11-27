@@ -8,7 +8,7 @@ const Sidebar = () => {
 
   return (
     <aside
-      classNam={`${
+      className={`${
         isSidebarOpen ? 'sidebar-wrapper show' : 'sidebar-wrapper'
       }`}>
       <div className='sidebar'>
