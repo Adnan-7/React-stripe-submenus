@@ -214,6 +214,7 @@ Stripe Styles
 }
 .hero-images {
   display: none;
+  margin-top: 80px;
 }
 
 /* nav media query */
